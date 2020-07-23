@@ -9,7 +9,8 @@
   "dependencies": {
     "rbx": "^2.2.0",
     "react": "^16.13.0",
-    "react-dom": "^16.13.0"
+    "react-dom": "^16.13.0",
+    "tslib": "^2.0.0"
   },
   "devDependencies": {
     "@snowpack/app-scripts-react": "^1.6.0-alpha.0",
